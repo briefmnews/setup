@@ -1,2 +1,3 @@
 setup
 =====
+![](//img/elephant.jpg)
